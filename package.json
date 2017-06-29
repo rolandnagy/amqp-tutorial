@@ -1,11 +1,9 @@
 {
     "name": "amqp_tutorial",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "Comparison of Node.js template languages.",
     "keywords": ["amqp", "rabbitmq"],
-    "repository": "",
-    "homepage": "",
-    "author": "",
+    "repository": "https://github.com/rolandnagy/amqp-tutorial.git",
     "dependencies": {
         "amqplib": "^0.5.1"
     },
